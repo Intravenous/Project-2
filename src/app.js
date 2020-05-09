@@ -12,7 +12,7 @@ import 'bulma'
 import './styles/style.scss'
 
 const App = () => (
-  <BrowserRouter basename='/project-2'>
+  <BrowserRouter basename='/Project-2'>
     <NavBar />
     <Switch>
       <Route exact path='/' component={Home}/>
