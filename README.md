@@ -185,7 +185,7 @@ The Birthday Playlist page, had a set of three input boxes, that took a user’s
 
 `Birthday.js`
 
-Birthday.js was the main classical component created for the birthday playlist functionality.  It consisted of three states; birthdayInput, birthdayArray and data. It also rendered the three input fields to capture a user’s birthdate.
+Birthday.js was the main classical component created for the birthday playlist functionality.  It consisted of three states; birthdayInput, birthdayArray and data. BirthdayInput was an object consisting of three strings, representing the constituent parts of a birthdate; day, month and year.
 
 ```js
 
