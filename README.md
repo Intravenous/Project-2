@@ -12,7 +12,7 @@ Essentially, Soundtrack enabled a user to input their birthdate and then receive
 
 The project was an opportunity for my partner and I, to implement what we had learnt to date, with a particular focus on React and integrating public APIs in our applications.
 
-The finished product can be found on Heroku [here](https://intravenous.github.io/Project-2/).
+The finished product can be found [here](https://intravenous.github.io/Project-2/).
 
 ---
 
