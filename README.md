@@ -10,7 +10,7 @@ Soundtrack, your birthday playlist through the years, was the second project und
 
 Essentially, Soundtrack enabled a user to input their birthdate and then receive a birthday playlist.  This playlist consisted of records that had been at No.1 in the UK singles chart, for every birthday since the year of their birth.
 
-The project was an opportunity for my partner and I, to implement what we had learnt to date, with a particular focus on React and integrating public APIs in our applications.
+The project was an opportunity for my partner and I, to implement what we had learnt to date, with a particular focus on React and integrating public APIs into our applications.
 
 The finished product can be found [here](https://intravenous.github.io/Project-2/).
 
@@ -44,7 +44,7 @@ The finished product can be found [here](https://intravenous.github.io/Project-2
 
 `The API and App.js`
 
-After brainstorming ideas and searching for a suitable API, as a pair we eventually settled on the idea of creating an application that would provide the ‘Soundtrack’ to a user’s live using Deezer’s API.
+After brainstorming ideas and searching for a suitable API, as a pair we eventually settled on the idea of creating an application that would provide the ‘Soundtrack’ to a user’s life using Deezer’s API.
 
 On completion of the project, our application composed of four pages and eight components.
 
@@ -67,7 +67,7 @@ const App = () => (
 
 `Home`
 
-Stylistically we decide upon a very simple hero home page that both announced what the application did and provided links for the applications two functions.
+Stylistically we decided upon a very simple hero home page that both announced what the application did and provided links for the applications two functions.
 
 * Search - enabled a user to search Deezer by artist or track.
 * Birthday Playlist - enabled a user to enter their birthdate and receive a playlist.
